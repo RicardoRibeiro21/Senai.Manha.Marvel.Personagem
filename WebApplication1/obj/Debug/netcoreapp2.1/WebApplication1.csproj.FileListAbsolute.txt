@@ -1,0 +1,14 @@
+C:\Users\47575406808\source\repos\Senai.Manha.Marvel.Api\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.deps.json
+C:\Users\47575406808\source\repos\Senai.Manha.Marvel.Api\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.json
+C:\Users\47575406808\source\repos\Senai.Manha.Marvel.Api\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\47575406808\source\repos\Senai.Manha.Marvel.Api\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.dll
+C:\Users\47575406808\source\repos\Senai.Manha.Marvel.Api\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csprojAssemblyReference.cache
+C:\Users\47575406808\source\repos\Senai.Manha.Marvel.Api\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\47575406808\source\repos\Senai.Manha.Marvel.Api\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\47575406808\source\repos\Senai.Manha.Marvel.Api\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\47575406808\source\repos\Senai.Manha.Marvel.Api\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\47575406808\source\repos\Senai.Manha.Marvel.Api\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfo.cs
+C:\Users\47575406808\source\repos\Senai.Manha.Marvel.Api\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\47575406808\source\repos\Senai.Manha.Marvel.Api\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.pdb
+C:\Users\47575406808\source\repos\Senai.Manha.Marvel.Api\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.dll
+C:\Users\47575406808\source\repos\Senai.Manha.Marvel.Api\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.pdb
